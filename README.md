@@ -60,8 +60,8 @@ Welcome to my playground, Genset Engineer 😆 (Sr. Software Engineer), currentl
 #### Activity
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@ed117f6a-9782-466f-8634-55bbc2379a18/e2a5c059-4788-4307-b9e8-6262b7c0167d.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@ed117f6a-9782-466f-8634-55bbc2379a18/d861afbc-7844-475e-a418-cf69b95342c1.svg" />
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@ed117f6a-9782-466f-8634-55bbc2379a18/f494d740-9dfd-4991-965a-f8c204ed7cfe.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@ed117f6a-9782-466f-8634-55bbc2379a18/ec8826fa-e9da-4a41-a567-a5504171aff5.svg" />
 </p>
 
 #### 🎉🎉🎉 Random 😆
