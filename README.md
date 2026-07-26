@@ -78,6 +78,6 @@ Welcome to my playground, Genset Engineer 😆 (Sr. Software Engineer), currentl
 ##### 🙄 please ignore it
 
 <p align="center">
-  <img src="https://gifroz.vercel.app/?q=meme&source=tenor" width="300" alt="Random meme 2" />
+  <img src="https://random-d.uk/api/v2/randomimg?type=gif" width="300" alt="Random meme 2" />
 </p>
 
